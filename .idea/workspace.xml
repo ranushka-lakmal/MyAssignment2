@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a08c7c53-7330-40bb-9a73-3b399f8ed27e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Expense Manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/applet.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/expmanage.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/dbclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Budget.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Budget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Dashboard.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Err_notify.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Err_notify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Home.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Report.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/TranHistory.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/TranHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/category.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/categorybox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/exp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/expenses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/forgot.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/forgot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/left-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/loginsession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/logout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/main.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/padlock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/salary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/shutdown_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/signup.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/add-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/remove.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KLzfHNxqepvXugVbKqsJq8MqU2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../myGit project" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08c7c53-7330-40bb-9a73-3b399f8ed27e" name="Default Changelist" comment="" />
+      <created>1673768765927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673768765927</updated>
+      <workItem from="1673768770723" duration="341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
